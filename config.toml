@@ -1,0 +1,14 @@
+email = ""
+global_key = ""
+
+[[dns]]
+type = ""
+name =""
+content = ""
+id = ""
+zone_id = ""
+zone_name = ""
+priority = 0
+ttl = 600
+proxied = false
+operate = ""
